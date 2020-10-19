@@ -1,13 +1,14 @@
 import React from 'react';
-import Average from './Average';
+import Info from './Info';
+//import Average from './Average';
 
 //import Info from './Info';
 
 const App = () => {
 
-  return <Average/>
+  //return <Average/>
   
-  //return <Info/>
+  return <Info/>
   
   // const [visible, setVisible] = useState(false);
   // return (
